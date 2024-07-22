@@ -1,0 +1,18 @@
+/**: # namespace and node name
+  ros__parameters:
+    slamangle_x: 0.0   
+    slamangle_y: 0.0   
+    slamangle_z: 0.0   
+
+    imuangle_x: 0.0
+    imuangle_y: 0.0
+    imuangle_z: 0.0
+
+    q_matrix: 0.0015
+    r_matrix: 0.015
+
+    imu_usable: False
+
+    imuData: '/imu/data'
+    slamData: '/boat_odometry'
+    ousterData: '/ouster/imu'
